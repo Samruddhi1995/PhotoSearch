@@ -1,13 +1,10 @@
 
 var apigClient = apigClientFactory.newClient();
 
-/*var apigClient = apigClientFactory.newClient({
-  accessKey: '4m83mhMn86T+c8sUcHtR0B/BkGxzuBR9VEuXpBx6',
-  secretKey: 'RISk*P7av*QL',
-});*/
+
 
 var apigClient = apigClientFactory.newClient({
-  apiKey: 'sigan86xLs5EGuwS16KIM47BDRJYkIQu7DOepzXn'
+  apiKey: '-------------'
 });
 
 var resultdiv = $('#results');
